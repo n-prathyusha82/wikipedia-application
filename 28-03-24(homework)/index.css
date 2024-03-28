@@ -1,0 +1,30 @@
+.backgroung-color{
+  background-color: blue;
+}
+.top-container{
+  padding: 30px;
+}
+.wiki-logo-img{
+  width: 150px;
+}
+.logo-container{
+  text-align: center;
+}
+.search-bar{
+  width: 100%;
+  padding: 10px;
+  font-size: 24px;
+}
+
+hr{
+  width: 100%;
+}
+
+.results-container{
+  padding: 30px;
+  font-family: sans-serif;
+}
+.link{
+  text-decoration: none;
+  color: blue;
+}
